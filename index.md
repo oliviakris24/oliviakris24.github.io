@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Olivia Kris
 
-You can use the [editor on GitHub](https://github.com/oliviakris24/oliviakris24.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hi there, I'm Olivia - a second-year student at UC Berkeley studying Data Science with a domain emphasis on Cognition, and currently pursuing a ceritificate in Design from the Jacobs Institute of Design on campus.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm passionate about everything code, including the intersection of design and code as related to creating a positive user experience.
 
 ### Markdown
 
