@@ -1,9 +1,10 @@
-## Olivia Kris
+# Olivia Kris
 
-Hi there, I'm Olivia - a second-year student at UC Berkeley studying Data Science with a domain emphasis on Cognition, and currently pursuing a ceritificate in Design from the Jacobs Institute of Design on campus.
+Hi there, I'm Olivia - a second-year student at UC Berkeley intending to major in Computer Science, and currently pursuing a ceritificate in Design from the Jacobs Institute of Design on campus.
 
 I'm passionate about everything code, including the intersection of design and code as related to creating a positive user experience.
 
+## Projects
 ### Bliss
 
 Bliss is an iOS application with the mission of giving emotional support to fellow teenagers with autoimmune conditions. The content includes medical information from physicians who specialize in autoimmune conditions, advice from fellow teenagers with autoimmune conditions, a map of nearby urgent cares, and emergency services.
